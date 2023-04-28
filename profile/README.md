@@ -1,4 +1,4 @@
-## Hi there, Beerlover 👋
+## Hi there, Beerlover 🍻
 
 # Introduction 
 This project aims to contain all notebooks and files created for 2023 global analytics project ***Data To Actionable Insights (D2AI)***.
