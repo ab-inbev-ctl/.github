@@ -13,7 +13,7 @@ Containing all analysis performed by global for the 2022 Close The Loop Pilots b
 These analysis notebooks were reviewed and standardized to follow coding best practicies and are very good examples to follow.
 
 
-#Usage guidelines
+# Usage guidelines
 
 To ensure the properly usage of the repositories, please follow the guidelines on how to use them listed below:
 
